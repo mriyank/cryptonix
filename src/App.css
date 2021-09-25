@@ -28,7 +28,7 @@ a:hover {
 }
 
 .main {
-  flex: 0.8;
+  flex: 0.95;
   width: 100%;
 }
 .routes {
@@ -51,7 +51,7 @@ a:hover {
   width: 100%;
 }
 .logo {
-  margin: 0 0 0 15px;
+  /* margin: 0 0 0 15px; */
 }
 .logo a {
   color: white;
